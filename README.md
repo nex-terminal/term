@@ -1,3 +1,4 @@
+**Terms and Conditions**
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Nex Terminal application available on macOS,iPadOS,iOS ("Platform") accessible at the App Store.
 Your access to and use of Nex Terminal is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all users who access or use Nex Terminal .
 By accessing or using Nex Terminal , you agree to be bound by these Terms. If you disagree with any part of the Terms, then you may not access or use Nex Terminal .
