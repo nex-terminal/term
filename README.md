@@ -1,8 +1,6 @@
 **Terms and Conditions**
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Nex Terminal application available on macOS,iPadOS,iOS ("Platform") accessible at the App Store.
-Your access to and use of Nex Terminal is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all users who access or use Nex Terminal .
-By accessing or using Nex Terminal , you agree to be bound by these Terms. If you disagree with any part of the Terms, then you may not access or use Nex Terminal .
+Please read these Terms of Service ("Terms") carefully before using the Nex Terminal application available on macOS,iPadOS,iOS ("Platform") and accessible at the App Store. Your access to and use of Nex Terminal is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all users who access or use Nex Terminal . By accessing or using Nex Terminal , you agree to be bound by these Terms. If you disagree with any part of the Terms, then you may not access or use Nex Terminal .
 
 **1.Subscriptions**
 
@@ -12,7 +10,7 @@ At the end of each Billing Cycle, your Subscription will automatically renew und
 **2.Free Trial**
 
 The developers of Nex Terminal(("Developers") may, at its sole discretion, offer a Subscription with a free trial for a limited period of time ("Free Trial").
-Upon expiration of the free trial period, you will retain access to essential features. However, to unlock advanced capabilities, it is necessary to upgrade to the Pro version. , We reserves the right to (i) modify the terms and conditions of the Free Trial offer, or (ii) cancel such Free Trial offer.
+Upon expiration of the free trial period, you will retain access to essential features. However, to unlock advanced capabilities, it is necessary to upgrade to the Pro version. Developers reserves the right to (i) modify the terms and conditions of the Free Trial offer, or (ii) cancel such Free Trial offer.
 
 **3. Restrictions**
 
